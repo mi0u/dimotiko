@@ -1,0 +1,37 @@
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.highlighted {
+  border: 1px solid #ccc;
+  background-color: #f0f0f0;
+  color: #333;
+
+  border-radius: 4px;
+  color: red;
+  box-sizing: border-box;
+  margin: -1px;
+}
+
+p {
+    font-size: 2rem;
+    font-family: comic-sans;
+    margin: 20px;
+}
+
+#title {
+  font-size: 2rem;
+    font-family: sans-serif;
+    margin: 20px;
+  text-align: center;
+}
+
+#caption {
+  font-size: 1.5rem;
+    font-family: sans-serif;
+    margin: 20px;
+  text-align: center;
+}
